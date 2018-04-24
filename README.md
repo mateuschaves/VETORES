@@ -9,6 +9,8 @@ Resolução dos exercícios da disciplina Vetores do curso de sistemas de inform
 * **Autor: Paulo Winterle**
 
 ## Contribuidores
-* **Mateus Henrique** - [Github](https://github.com/mateuschaves)
+* **Mateus Henrique** 
+* **Felipe**
+* **Daniel**
 
 
